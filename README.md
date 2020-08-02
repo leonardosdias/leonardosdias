@@ -1,8 +1,5 @@
 ### Opa 👋
 
-<!--
-**leonardosdias/leonardosdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 Atualmente trabalho com Desenvolvedor Web Jr no Centro Universitário IESB - Brasília-DF;
 - 🌱 Estou estudando o ecossistema JavaScript, frontend e backend;
