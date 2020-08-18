@@ -1,6 +1,6 @@
 ### Opa 👋
 
-## Me chamo Leonardo Dias, sou Desenvolvedor Web Fullstack Jr
+## Me chamo Leonardo Dias, sou Desenvolvedor Web Fullstack 
 
 
 - 🔭 Atualmente trabalho com Desenvolvedor Web Jr no Centro Universitário IESB - Brasília-DF;
