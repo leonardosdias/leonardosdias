@@ -3,7 +3,7 @@
 ## Me chamo Leonardo Dias, sou Desenvolvedor Web Fullstack 
 
 
-- 🔭 Atualmente trabalho com Desenvolvedor Web Fullstack Jr no Basis Tecnologia da Informação - Brasília-DF;
+- 🔭 Atualmente trabalho com Desenvolvedor Web Fullstack Jr na fábrica de software Basis Tecnologia da Informação - Brasília-DF;
 - 🌱 Estou estudando o ecossistema JavaScript, frontend e backend;
 - 👯 Posso colaborarar em projetos de tecnologias PHP e JavaScript;
 - 💬 Tenho conhecimentos em Node.js, ReactJS, Angular, Laravel, e CodeIgniter;
