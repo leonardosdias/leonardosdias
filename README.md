@@ -1,6 +1,6 @@
-### Opa 👋
+### Leonardo Dias
 
-## Me chamo Leonardo Dias, sou Desenvolvedor Web Fullstack 
+## Desenvolvedor Web Fullstack 
 
 
 - 🔭 Atualmente trabalho como Desenvolvedor Frontend na NTT DATA Brasil;
