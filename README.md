@@ -3,8 +3,8 @@
 ## Desenvolvedor Web Fullstack 
 
 
-- 🔭 Atualmente trabalho como Desenvolvedor Frontend na Capgemini Brasil;
-- 🌱 Estou estudando o ecossistema JavaScript, frontend e backend;
-- 👯 Posso colaborar em projetos de tecnologias PHP e JavaScript;
-- 💬 Tenho conhecimentos em ReactJS, Angular, VueJS, Laravel, e Node.js com Express e NestJS;
-- 📫 Meus contatos: Gmail: leonnardosouza96@gmail.com, Outlook: leonardodias96@outlook.com e WhatsApp: 61 98334-6296.
+- Desenvolvedor Frontend Pleno na Capgemini Brasil;
+- Experiência em tecnologias Web JavaScript e PHP;
+- Estudos atuais e atuação voltada para o framework frontend Angular;
+- Meus conhecimentos: Angular, React, Jest, Node.js com Express e NestJS;
+- Contatos: Gmail: leonnardosouza96@gmail.com, Outlook: leonardodias96@outlook.com e WhatsApp: 61 98334-6296.
