@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Leonardo Dias aqui</p>
+<h3 align="left">Leonardo Dias aqui</h3>
 
 ###
 
@@ -15,7 +15,7 @@ Além disso, tenho estudado Cloud Computer, com AWS e seus serviços, onde conqu
 
 ###
 
-<h2 align="left">Tenho conhecimento em:/h2>
+<h2 align="left">Tenho conhecimento em:</h2>
 
 ###
 
