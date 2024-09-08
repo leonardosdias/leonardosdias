@@ -11,7 +11,7 @@
 ###
 
 <p align="left">Sou um desenvolvedor web com mais de 5 anos de experiência, com foco em desenvolvimento Frontend. Tendo Angular como principal tecnologia de conhecimento e atuação, mas já atuei com React, Vue, NodeJS, e Laravel PHP. 
-Além disso, tenho estudado Cloud Computer, com AWS e seus serviços, onde conquistei a certificação AWS Cloud Praticioner e a linguagem de programação Java.</p>
+Além disso, tenho estudado Cloud Computer, com AWS e seus serviços, onde conquistei as certificações AWS Cloud Praticioner, AWS Developer Associate e Java com Quarkus.</p>
 
 ###
 
